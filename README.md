@@ -1,52 +1,48 @@
-# 📄 Baraa Arwani - Resume
+# 🚀 Hi there, I'm Baraa Arwani! <img src="https://media.giphy.com/media/hvRJCLzz8CXT357obZ/giphy.gif" width="30px">
 
-## 👤 Profile
-Motivated **Data Science** student at the Islamic University of Madinah with a strong foundation in analytical thinking and problem-solving. Eager to bridge the gap between academic theory and real-world business challenges through hands-on experience. Committed to developing advanced skills in data analysis and strategic consulting within fast-paced, professional environments.
-
----
-
-## 🎓 Education
-### **Bachelor of Data Science**
-**Islamic University of Madinah**, Saudi Arabia | *Expected Graduation: 2027*
-* **Relevant Coursework:** Introduction to Programming (Python), Database Systems (SQL), Statistical Data Analysis, Foundations of Data Science.
+### 🎓 Data Science Student & Aspiring Full-Stack Data Professional
+Welcome to my digital space! I am a student at the **Islamic University of Madinah**, passionate about turning data into actionable insights and building smart solutions.
 
 ---
 
-## 🛠 Technical Skills
-* **Programming:** `Python` (Data structures, basic scripting).
-* **Databases:** `SQL` (Basic queries, data retrieval).
-* **Data Analysis:** Fundamentals of descriptive statistics and data visualization.
-* **Tools:** Microsoft PowerPoint (Professional presentations), Excel (Data entry and formulas).
+### 🛠 My Tech Stack
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Analysis** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) |
 
 ---
 
-## 🚀 Academic Projects & Training
-### **Lost and Found System** | *2024*
-* Developed a logical framework for managing lost and found items for a university campus.
-* Applied problem-solving techniques to improve user experience and process efficiency.
-* Worked on system requirements and UML documentation.
+### 📊 Professional Focus
+- 🔭 **Current Project:** Working on a "Lost and Found System" to optimize campus operations.
+- 🌱 **Learning:** Currently diving deeper into **Data Engineering** and **Advanced SQL**.
+- 🎯 **Goal:** Bridging academic theory with real-world business challenges through proactive learning.
+- ⚡ **Fun Fact:** I'm a self-starter who values "build-to-learn" experiences over pure theory.
 
 ---
 
-## 💡 Professional Skills
-* **Analytical Thinking:** Breaking down complex problems into actionable insights.
-* **Communication:** Persuasive communicator with experience in presenting findings clearly.
-* **Collaboration:** Proven ability to work effectively within multi-disciplinary teams.
-* **Detail Oriented:** High level of accuracy in data handling and task execution.
+### 🏆 Featured Project
+**[IU-Lost-And-Found](https://github.com/Baraa-111/IU-Lost-And-Found)**
+> A logical framework designed for university campuses to manage lost items efficiently using system requirements and UML documentation.
 
 ---
 
-## 🌍 Languages
-* **Arabic:** Native speaker.
-* **English:** Intermediate (Professional working proficiency).
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/baraa-arwani-993282331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraa-arwani" height="30" width="40" /></a>
+<a href="mailto:braaarwani111@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="braaarwani111" height="30" width="40" /></a>
+</p>
 
 ---
 
-## 📫 Contact Me
-* **Phone:** 0540972322
-* **Email:** [braaarwani111@gmail.com](mailto:braaarwani111@gmail.com)
-* **LinkedIn:** [Baraa Arwani](https://www.linkedin.com/in/baraa-arwani-993282331)
-* **GitHub:** [Baraa-111](https://github.com/Baraa-111)
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baraa-111&show_icons=true&theme=tokyonight" alt="Baraa's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baraa-111&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
 
----
-*Generated by Gemini - Focused on Data Science & Analytics Growth.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Baraa-111&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
