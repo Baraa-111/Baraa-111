@@ -23,12 +23,6 @@ Welcome to my digital space! I am a student at the **Islamic University of Madin
 
 ---
 
-### 🏆 Featured Project
-**[IU-Lost-And-Found](https://github.com/Baraa-111/IU-Lost-And-Found)**
-> A logical framework designed for university campuses to manage lost items efficiently using system requirements and UML documentation.
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/baraa-arwani-993282331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraa-arwani" height="30" width="40" /></a>
@@ -37,12 +31,10 @@ Welcome to my digital space! I am a student at the **Islamic University of Madin
 
 ---
 
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baraa-111&show_icons=true&theme=tokyonight" alt="Baraa's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baraa-111&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=Baraa-111&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Baraa-111&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <i>"Data is the new oil. It's valuable, but if unrefined it cannot really be used."</i>
 </p>
