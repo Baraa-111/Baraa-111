@@ -1,40 +1,60 @@
-# 🚀 Hi there, I'm Baraa Arwani! <img src="https://media.giphy.com/media/hvRJCLzz8CXT357obZ/giphy.gif" width="30px">
+<div align="center">
 
-### 🎓 Data Science Student & Aspiring Full-Stack Data Professional
-Welcome to my digital space! I am a student at the **Islamic University of Madinah**, passionate about turning data into actionable insights and building smart solutions.
+# 🚀 Hello World, I'm Baraa !
+  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6ZHR6ZzR5bWx3bm93eG05Nmd6Nnd6ZzR5bm05Nmd6Nnd6ZzR5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoRKslxGqANMbcLsW/giphy.gif" width="300px">
 
----
-
-### 🛠 My Tech Stack
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Data Analysis** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) |
-
----
-
-### 📊 Professional Focus
-- 🔭 **Current Project:** Working on a "Lost and Found System" to optimize campus operations.
-- 🌱 **Learning:** Currently diving deeper into **Data Engineering** and **Advanced SQL**.
-- 🎯 **Goal:** Bridging academic theory with real-world business challenges through proactive learning.
-- ⚡ **Fun Fact:** I'm a self-starter who values "build-to-learn" experiences over pure theory.
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/baraa-arwani-993282331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraa-arwani" height="30" width="40" /></a>
-<a href="mailto:braaarwani111@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="braaarwani111" height="30" width="40" /></a>
-</p>
+### 📊 Data Science Student | Tech Enthusiast | Problem Solver
+*Transforming complex data into meaningful stories and smart solutions.*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Baraa-111&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Baraa-111&color=00509E&style=plastic&label=PROFILE+VISITORS" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <i>"Data is the new oil. It's valuable, but if unrefined it cannot really be used."</i>
-</p>
+</div>
+
+### 🔭 Current Focus
+- 📍 **Based In:** Riyadh / Madinah, KSA.
+- 🎓 **Studying:** Bachelor of Data Science at **Islamic University of Madinah**.
+  
+
+---
+
+### ⚡ Technical Arsenal
+
+<div align="center">
+
+| **Programming & Web** | **Data Analysis & Visualization** | **Professional Tools** |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![PowerPoint](https://img.shields.io/badge/PPT-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white) |
+
+</div>
+
+---
+
+### 🌱 Growth Mindset
+> "I don't wait for opportunities, I create them ."
+
+- ✅ **Self-Starter:** Pursuing professional internships voluntarily to stay ahead of the curve.
+- ✅ **Analytical Mind:** Deeply interested in disruptive trends and mega-technologies.
+- ✅ **Communicator:** Bilingual (Arabic/English) with a focus on persuasive presentation skills.
+
+---
+
+### 📫 Connect & Collaborate
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baraa-arwani-993282331)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braaarwani111@gmail.com)
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00509E&height=100&section=footer" width="100%"/>
+</div>
