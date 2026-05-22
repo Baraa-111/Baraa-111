@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hello World, I'm Baraa !
+# 🚀 Hello World, I'm Baraa Arwani!
   
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6ZHR6ZzR5bWx3bm93eG05Nmd6Nnd6ZzR5bm05Nmd6Nnd6ZzR5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoRKslxGqANMbcLsW/giphy.gif" width="300px">
 
@@ -18,7 +18,7 @@
 ### 🔭 Current Focus
 - 📍 **Based In:** Riyadh / Madinah, KSA.
 - 🎓 **Studying:** Bachelor of Data Science at **Islamic University of Madinah**.
-  
+- 🎯 **Aspiration:** To bridge the gap between technical data engineering and strategic business consulting.
 
 ---
 
@@ -36,11 +36,24 @@
 
 ---
 
+### 💻 Featured Projects
+
+#### 🛍️ [Premium Store - E-Commerce Web Project](https://github.com/Baraa-111)
+- **Description:** A dynamic e-commerce platform built to simulate real-world retail experiences. Features full product browsing, data management, and functional shopping cart logic.
+- **Tech Stack:** `PHP` | `JavaScript` | `SQL` | `HTML5` | `CSS3`
+- *Note: Please check the repository documentation for screenshots and a comprehensive video walkthrough demonstrating its core features running in a local environment.*
+
+#### 🔍 [IU-Lost-And-Found - Academic Project](https://github.com/Baraa-111/IU-Lost-And-Found)
+- **Description:** A logic-driven system design architecture developed for university campuses to manage and track lost items efficiently using system requirements and UML documentation.
+- **Tech Stack:** `TypeScript` | `System Architecture` | `UML Modeling`
+
+---
+
 ### 🌱 Growth Mindset
-> "I don't wait for opportunities, I create them ."
+> "I don't wait for opportunities, I create them by building projects that solve real-world problems."
 
 - ✅ **Self-Starter:** Pursuing professional internships voluntarily to stay ahead of the curve.
-- ✅ **Analytical Mind:** Deeply interested in disruptive trends and mega-technologies.
+- ✅ **Analytical Mind:** Deeply interested in disruptive trends, cybersecurity, and data analysis.
 - ✅ **Communicator:** Bilingual (Arabic/English) with a focus on persuasive presentation skills.
 
 ---
